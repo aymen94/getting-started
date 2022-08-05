@@ -18,7 +18,7 @@ These are free, high-quality resources that anyone should be able to pick up to 
 - NodeSchool [Workshoppers](https://nodeschool.io/#workshoppers)
   - NodeSchool is an unofficial community group that has built out various workshops that you can walk through yourself.
   - Many workshoppers can also be run online via the [NodeSchool](https://glitch.com/@nodeschool) organization's workshoppers on Glitch
-- Have an additional resource? [Send a Pull Request](https://github.com/nodejs/getting-started/edit/master/README.md) on this file!
+- Have an additional resource? [Send a Pull Request](https://github.com/nodejs/getting-started/edit/main/README.md) on this file!
 
 ### Node.js: Node.js and {{ something else }}
 
@@ -26,15 +26,15 @@ At this point, very few people use _just_ Node.js. As such, it's important to al
 
 - [Full Stack Open](https://fullstackopen.com)
   - Teaches: Node.js, React, Redux, MongoDB, and GraphQL
-- Have an additional resource? [Send a Pull Request](https://github.com/nodejs/getting-started/edit/master/README.md) on this file!
+- Have an additional resource? [Send a Pull Request](https://github.com/nodejs/getting-started/edit/main/README.md) on this file!
 
 ### Node.js: Contributing
 
 If you're looking to contribute directly to Node.js, these guides will help move you in the right direction.
 
 - [Contribute to Node.js Core](http://nodetodo.org/getting-started/)
-- [Contribute to Node.js (but not sure how to get to the working group you want to help?)](https://github.com/nodejs/getting-started/blob/master/contribute_to_node.md)
-- Have an additional resource? [Send a Pull Request](https://github.com/nodejs/getting-started/edit/master/README.md) on this file!
+- [Contribute to Node.js (but not sure how to get to the working group you want to help?)](https://github.com/nodejs/getting-started/blob/main/contribute_to_node.md)
+- Have an additional resource? [Send a Pull Request](https://github.com/nodejs/getting-started/edit/main/README.md) on this file!
 
 #### Good First Issues in the Node.js Organization
 
